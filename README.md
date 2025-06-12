@@ -103,10 +103,12 @@ Tasks are stored in a file called `tasks.json`, using this format:
 ## 👨‍💻 Author
 
 Manav Khanna  
-[Feel free to add your LinkedIn or GitHub links here]
+
 
 ---
 
 ## 📜 License
 
 This project is open-source and free to use.
+https://github.com/Manav0824/task-tracker-cli
+
