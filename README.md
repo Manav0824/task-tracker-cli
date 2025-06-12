@@ -1,1 +1,1 @@
-https://github.com/Manav0824/task-tracker-cli
+Project URL: https://manav0824.github.io/task-tracker-cli/
