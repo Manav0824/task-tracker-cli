@@ -110,5 +110,7 @@ Manav Khanna
 ## 📜 License
 
 This project is open-source and free to use.
-https://github.com/Manav0824/task-tracker-cli
+## Project URL:
+Project URL: https://github.com/Manav0824/task-tracker-cli
+
 
