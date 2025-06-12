@@ -7,7 +7,7 @@ Data is stored locally in a `tasks.json` file.
 
 ---
 
-🔗 **View this project on GitHub**: Manav0824/task-tracker-cli](https://github.com/Manav0824/task-tracker-cli)
+🔗 **View this project on GitHub**: Manav0824/task-tracker-cli (https://github.com/Manav0824/task-tracker-cli)
 
 ---
 
