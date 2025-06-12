@@ -108,7 +108,6 @@ Manav Khanna
 
 This project is open-source and free to use.
 
-
 https://github.com/Manav0824/task-tracker-cli
 
 
