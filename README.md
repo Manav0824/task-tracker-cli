@@ -5,9 +5,6 @@ A simple command-line tool to manage your daily tasks using Python.
 Supports adding, listing, updating, marking done, and deleting tasks.  
 Data is stored locally in a `tasks.json` file.
 
----
-
-🔗 **View this project on GitHub**: Manav0824/task-tracker-cli (https://github.com/Manav0824/task-tracker-cli)
 
 ---
 
@@ -112,5 +109,6 @@ Manav Khanna
 This project is open-source and free to use.
 ## Project URL:
 Project URL: https://github.com/Manav0824/task-tracker-cli
+
 
 
