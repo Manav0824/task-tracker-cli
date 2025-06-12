@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "description": "Finish my assignment",
+        "status": "done"
+    },
+    {
+        "id": 2,
+        "description": "have to go to the gym",
+        "status": "done"
+    }
+]
